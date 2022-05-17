@@ -24,6 +24,7 @@ h2 {
 #logo {
     float: left;
     font-size: 280%;
+    margin-left: 30px;
 }
 
 /* Navigation Bar Styling */
@@ -115,3 +116,29 @@ h2 {
 
     position: absolute;
 }              
+/* club ethos*/
+
+#club-ethos {
+    height: 600px;
+}
+
+#left-about {
+    float: left;
+    padding-top: 30px;
+    width: 30%;
+    background-color: blue;
+}
+
+#right-about {
+    float: right;
+    padding-top: 30px;
+    width: 30%;
+    background-color: silver;
+}
+
+#center-about {
+    float: center center;
+    padding-top: 30px;
+    margin: 0 auto;
+    background-color: green;
+}
